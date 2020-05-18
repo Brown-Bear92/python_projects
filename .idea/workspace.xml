@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a739baa3-0b72-4e75-abd4-6110c3db84aa" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c3teTKMhtWRJmiEy8AJ6lK9Fea" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="car_Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="funStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/car_Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.car_Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a739baa3-0b72-4e75-abd4-6110c3db84aa" name="Default Changelist" comment="" />
+      <created>1589769199361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589769199361</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1589770647409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589770647409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1692" y="-44" width="1496" height="785" key="DiffContextDialog" timestamp="1589770770252">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state x="1692" y="-44" width="1496" height="785" key="DiffContextDialog/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589770770252" />
+    <state x="2321" y="102" key="FileChooserDialogImpl" timestamp="1589769355895">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state x="2321" y="102" key="FileChooserDialogImpl/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589769355895" />
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom" timestamp="1589770770065">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state width="1659" height="258" key="GridCell.Tab.0.bottom/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589770770065" />
+    <state width="1659" height="258" key="GridCell.Tab.0.center" timestamp="1589770770065">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state width="1659" height="258" key="GridCell.Tab.0.center/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589770770065" />
+    <state width="1659" height="258" key="GridCell.Tab.0.left" timestamp="1589770770065">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state width="1659" height="258" key="GridCell.Tab.0.left/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589770770065" />
+    <state width="1659" height="258" key="GridCell.Tab.0.right" timestamp="1589770770065">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state width="1659" height="258" key="GridCell.Tab.0.right/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589770770065" />
+    <state x="2270" y="217" key="VCS.EditChangelistDialog" timestamp="1589770564784">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state x="2270" y="217" key="VCS.EditChangelistDialog/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589770564784" />
+    <state x="2249" y="262" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589770528571">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state x="2249" y="262" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589770528571" />
+    <state x="2241" y="254" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589770518669">
+      <screen x="1600" y="-136" width="1680" height="969" />
+    </state>
+    <state x="2241" y="254" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.778/1600.-136.1680.969/-1920.-169.1920.999@1600.-136.1680.969" timestamp="1589770518669" />
+  </component>
+</project>
